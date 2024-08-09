@@ -1,0 +1,7 @@
+**/__pycache__/
+**/*.log
+bin/
+LAMMPS_DATA/
+LAMMPS_DATA_BOND/
+SIESTA_DATA/
+
