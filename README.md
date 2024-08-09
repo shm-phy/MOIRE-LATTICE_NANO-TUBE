@@ -1,10 +1,11 @@
 # Moire Lattice & Nanotube Generator
-Python scripts to create [LAMMPS](https://docs.lammps.org/2001/data_format.html) input data files for various 2D materials, including Graphene, TMDC, and hBN. A Python script is also available for generating TMDC nanotubes.
+Python scripts to create [LAMMPS](https://docs.lammps.org/2001/data_format.html) input data files for various 2D materials, including Graphene, TMDC, and hBN. 
+A Python script is also available for generating TMDC nanotubes.
 
 ![](./image.png)
 
 #### Requirements
-- python ( vesrion > 3.8)
+- python ( vesrion >= 3.8)
 - [numpy](https://pypi.org/project/numpy/)
 - [scipy](https://pypi.org/project/scipy/)
 - [matplotlib](https://pypi.org/project/matplotlib/) 
