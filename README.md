@@ -18,7 +18,7 @@ python moire_TMDC_rect.py -m=3 -r=1
 Here, **m** and **r** correspond to the commensurate angle of the moire lattice.
 
 ```sh
-python TMDC_nonotube.py -n=3 -m=4
+python TMDC_nanotube.py -n=3 -m=4
 ```
 Here, **n** and **m** correspond to the chirality of the nanotube.
 
