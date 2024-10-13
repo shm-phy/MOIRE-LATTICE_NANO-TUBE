@@ -5,7 +5,7 @@ A Python script is also available for generating TMDC nanotubes.
 ![](./image.png)
 
 #### Requirements
-- python ( versrion >= 3.8)
+- python ( version >= 3.8)
 - [numpy](https://pypi.org/project/numpy/)
 - [scipy](https://pypi.org/project/scipy/)
 - [matplotlib](https://pypi.org/project/matplotlib/) 
